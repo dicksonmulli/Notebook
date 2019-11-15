@@ -3,7 +3,7 @@ package com.example.notebook.data
 import com.example.notebook.data.model.Item
 
 /**
- * Main entry point for accessing restaurant data.
+ * Main entry point for accessing item data.
  *
  *
  * should add callbacks to other methods to inform the user of network/database errors or successful operations.

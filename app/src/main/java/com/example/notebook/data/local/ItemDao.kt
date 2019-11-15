@@ -1,6 +1,6 @@
 package com.example.notebook.data.local
 
-import android.arch.persistence.room.*
+import androidx.room.*
 import com.example.notebook.data.model.Item
 
 @Dao
